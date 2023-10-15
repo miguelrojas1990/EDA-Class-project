@@ -1,4 +1,4 @@
-#CITATION
+CITATION
 ---
 Please cite this work as:
 
