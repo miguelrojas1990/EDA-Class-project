@@ -6,8 +6,7 @@ El proyecto de análisis EDA es un hito de la materia de Desarrollo de Proyectos
 
 ## Nota
 
-Este proyecto se basa en el conocimiento adquirido a través de la clase de Desarrollo de Proyectos I del programa de la Maestría en Ciencia de Datos de la Universidad de Guadalajara en conjunto con los aprendizajes adquiridos en el curso de Spatial Analysis & Geospatial Data Science in Python (Udemy) que cursé hace unos años para aprender a mapear bases de datos en Python.
-
+Este proyecto se basa en el conocimiento adquirido a través de la clase de Desarrollo de Proyectos I del programa de la Maestría en Ciencia de Datos de la Universidad de Guadalajara, junto con el uso de herramientas de datos Geoespaciales que vimos en Segundo semestre.
 [Leer más](https://github.com/miguelrojas1990/EDA-Class-project#Nota)
 
 ---
