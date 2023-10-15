@@ -14,7 +14,7 @@ Este proyecto se basa en el conocimiento adquirido a través de la clase de Desa
 
 ## Objetivo
 
-Analizar las temperaturas en el mundo a través de los datos de Kaggle.
+Analizar las saturación de competencia para encontrar el mejor mercado a explorar.
 
 [Leer más](https://github.com/miguelrojas1990/EDA-Class-project#Objetivo)
 
@@ -35,7 +35,7 @@ El EDA es una herramienta de análisis para una revisión iterativa de las bases
 
 ---
 
-Para revisar el código, puedes encontrarlo en la carpeta de src o en esta [liga](https://github.com/disita/EDA-Class-Proyect/blob/main/src/EDA_clima.ipynb).
+Para revisar el código, puedes encontrarlo en la carpeta de src o en esta [liga](https://github.com/miguelrojas1990/EDA-Class-project/tree/main/scr).
 
 [Leer más](https://github.com/miguelrojas1990/EDA-Class-project#Resultados)
 
