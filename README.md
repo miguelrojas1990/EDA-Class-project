@@ -25,10 +25,10 @@ El EDA es una herramienta de análisis para una revisión iterativa de las bases
 
 1. Descripción de los datos
 2. Limpieza de datos
-    - Missing values (NA)
-3. Visualización de datos
-4. Comentarios adicionales
-5. Referencias
+3. Missing values (NA)
+4. Visualización de datos
+5. Comentarios adicionales
+6. Referencias
 
 [Leer más](https://github.com/miguelrojas1990/EDA-Class-project#Descripción)
 
